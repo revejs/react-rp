@@ -1,0 +1,20 @@
+{
+  "name": "@revejs/react-rp",
+  "version": "0.1.0",
+  "main": "./dist/index.js",
+  "devDependencies": {
+    "@types/react": "^17.0.27",
+    "esbuild": "^0.13.4",
+    "typescript": "^4.4.3"
+  },
+  "scripts": {
+    "start": "tsc",
+    "watch": "tsc --watch"
+  },
+  "peerDependencies": {
+    "react": "^17.0.2"
+  },
+  "dependencies": {
+    "revejs": "^0.1.1"
+  }
+}
