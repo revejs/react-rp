@@ -3,11 +3,11 @@ lockfileVersion: 5.3
 specifiers:
   '@types/react': ^17.0.27
   esbuild: ^0.13.4
-  revejs: ^0.1.1
+  revejs: ^0.3.2
   typescript: ^4.4.3
 
 dependencies:
-  revejs: 0.1.1
+  revejs: 0.3.2
 
 devDependencies:
   '@types/react': 17.0.27
@@ -187,8 +187,8 @@ packages:
       esbuild-windows-arm64: 0.13.4
     dev: true
 
-  /revejs/0.1.1:
-    resolution: {integrity: sha512-q1ZrWS3StK5FRZLG1NiY/ae6aEzh1FWACd3yHsH4+ltppgaBzkfZZmy6DU4/WHN8JWVFRDP/Egelk83sM5/6Ww==}
+  /revejs/0.3.2:
+    resolution: {integrity: sha512-LwnoRHlRUWhUlZg3jh+USBp3tqniwu3Z9r1AEKnPIzyVst8u3gNVQGLQR7BdljS2j3j672AIRKiRtaAD4iXfKg==}
     dev: false
 
   /typescript/4.4.3:
