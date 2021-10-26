@@ -1,6 +1,6 @@
 {
   "name": "@revejs/react-rp",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "main": "./dist/index.js",
   "devDependencies": {
     "@types/react": "^17.0.27",
@@ -12,9 +12,7 @@
     "watch": "tsc --watch"
   },
   "peerDependencies": {
-    "react": "^17.0.2"
-  },
-  "dependencies": {
-    "revejs": "^0.3.2"
+    "react": "^17.0.2",
+    "revejs": "^0.3.5"
   }
 }
