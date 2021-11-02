@@ -1,2 +1,2 @@
-export * from 'revejs'
 export * from './hooks/index';
+export * from './provider/index'

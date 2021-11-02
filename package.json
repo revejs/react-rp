@@ -1,6 +1,6 @@
 {
   "name": "@revejs/react-rp",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "main": "./dist/index.js",
   "devDependencies": {
     "@types/react": "^17.0.27",

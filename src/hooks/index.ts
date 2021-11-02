@@ -4,3 +4,4 @@ export * from './useSignalEffect';
 export * from './useSignalMemo';
 export * from './useSignalRefresh';
 export * from './useSignalState';
+export * from './useSignalContext';
